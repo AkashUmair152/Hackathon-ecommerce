@@ -23,10 +23,10 @@ const Navbar = () => {
         <button className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
           <span className="ml-3 text-xl">
             <Image
-              src={"/logo.webp"}
+              src={"/Logo.png"}
               alt={"ODine MarketPlace"}
-              width={200}
-              height={200}
+              width={150}
+              height={150}
             />
           </span>
         </button>

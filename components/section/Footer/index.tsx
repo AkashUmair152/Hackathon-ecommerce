@@ -11,7 +11,7 @@ const Footer = () => {
           <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
             <span className="ml-3 text-xl ">
               <Image
-                src={"/logo.webp"}
+                src={"/logo.png"}
                 alt={"ODine MarketPlace"}
                 width={200}
                 height={200}
